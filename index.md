@@ -19,7 +19,9 @@ instructor:
   - Ainhoa Oliden Sanchez
   - Anthony Valente
 helper:  # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
-  - TBD
+  - Daniel Beckman
+  - Wesley Henson
+  - Daniel Wieferich
 email: # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
   - lhsu@usgs.gov
 collaborative_notes:  "https://pad.carpentries.org/2021-04-27-usgs-online" # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document (e.g., https://pad.carpentries.org/2015-01-01-euphoria)
